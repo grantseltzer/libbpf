@@ -6,7 +6,7 @@ libbpf
 .. toctree::
    :maxdepth: 1
 
-   API <https://libbpf.readthedocs.io/en/latest/api.html>
+   API Documentation <https://libbpf.readthedocs.io/en/latest/api.html>
    libbpf_naming_convention
    libbpf_build
 
